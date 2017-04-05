@@ -5,8 +5,8 @@ from keras.layers import Dense
 import numpy as nmp
 nmp.random.seed(7)
 
-#load data
-dataset = nmp.loadtxt("data.csv", delimiter=",")
+#load data, in this case is csv file
+dataset = nmp.loadtxt("data.csv", delimiter=",") 
 
 #split into input (X) and output (Y) variables
 X = dataset[:,0:8]
