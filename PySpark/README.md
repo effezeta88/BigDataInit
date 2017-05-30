@@ -1,4 +1,4 @@
-##BIG Data Algorithms: MAP/REDUCE##
+## BIG Data Algorithms: MAP/REDUCE ##
 
 In this Algorithm we analize a series of data about the communication over Internet.
 We have an input file with Local IP address, Public IP address, direction of the connection and the Ports.
